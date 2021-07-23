@@ -1,5 +1,5 @@
 trigger:
-- l4s-develop
+- l4s-master
 
 pool:
   vmImage: 'windows-latest'
