@@ -1,0 +1,11 @@
+{
+  "Group": "Api",
+  "FriendlyName": "Api Processing plugin",
+  "SystemName": "Nop.Plugin.Api.Processing",
+  "Version": "4.240",
+  "SupportedVersions": [ "4.40" ],
+  "Author": "OPEN DOORS TECHNOLOGY LIMITED",
+  "DisplayOrder": -1,
+  "FileName": "Nop.Plugin.Api.Processing.dll",
+  "Description": "This plugin is Restfull API for nopCommerce"
+}
