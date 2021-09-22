@@ -3,8 +3,6 @@ using Nop.Core.Configuration;
 using Nop.Core.Infrastructure;
 using Nop.Core.Infrastructure.DependencyManagement;
 using Nop.Plugin.Api.Processing.Services;
-using Nop.Plugin.Shipping.ShipStation.Services;
-
 
 namespace Nop.Plugin.Api.Processing.Infrastructure
 {
